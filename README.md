@@ -5,7 +5,7 @@
 
 #### 2、  
 * 将chromedriver复制到/usr/local/bin目录下（chrome浏览器和hromedriver版本要对应
-https://www.cnblogs.com/maomao20/p/8024291.html）
+https://www.cnblogs.com/maomao20/p/8024291.html ）
 
 #### 3、
 * 将需要读取的文件和ch.py放在同一目录下
