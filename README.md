@@ -1,6 +1,15 @@
 # 使用代理IP访问百度，搜索文件中的词
 
 #### 1、
+* mac上安装chrome浏览器
+
+#### 2、  
+* 将chromedriver复制到/usr/local/bin目录下（chrome浏览器和hromedriver版本要对应https://blog.csdn.net/huilan_same/article/details/51896672）
+
+#### 3、
+* 将需要读取的文件和ch.py放在同一目录下
+
+#### 4、
 * 在pycharm上运行test.py文件
 
 ##### 注释：
