@@ -1,10 +1,10 @@
 # 使用代理IP访问百度，搜索文件中的词
 
 #### 1、
-* mac上安装chrome浏览器
+* 安装chrome浏览器
 
 #### 2、  
-* 将chromedriver复制到/usr/local/bin目录下（chrome浏览器和hromedriver版本要对应
+* 将chromedriver复制到/usr/local/bin目录下（mac的复制方法）（chrome浏览器和hromedriver版本要对应
 https://www.cnblogs.com/maomao20/p/8024291.html ）
 
 #### 3、
